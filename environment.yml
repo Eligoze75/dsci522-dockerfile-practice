@@ -1,0 +1,22 @@
+name: base
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - conda
+  - mamba=2.1.1
+  - pip
+  - jupyterlab-git
+  - jupyterlab-spellchecker
+  - jupyterlab
+  - otter-grader
+  - jupytext
+  - pandas
+  - altair
+  - pytest
+  - line_profiler
+  - r-rjson
+  - altair-all
+  - scipy
+  - conda-lock
+prefix: /Users/eligoze/miniforge3
